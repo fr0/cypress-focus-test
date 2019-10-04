@@ -1,0 +1,14 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "defaultCommandTimeout": 20000,
+  "requestTimeout": 20000,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1400,
+  "viewportHeight": 1000,
+  "numTestsKeptInMemory": 10,
+  "reporter": "junit",
+  "video": true,
+  "videosFolder": "cypress/results",
+  "screenshotsFolder": "cypress/results",
+  "trashAssetsBeforeRuns": false
+}
